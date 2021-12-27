@@ -1,0 +1,2 @@
+1. All holes should be 0.5mm lower;
+2. PS/2 holes should have 6.3mm radius.

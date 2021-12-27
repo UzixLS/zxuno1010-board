@@ -1,0 +1,3 @@
+1. R8 = 0 ohm;
+2. C13 = 4.3pF;
+3. D1 led behaviour is inverted (led off when SD is active).
