@@ -15,4 +15,6 @@
 [![photo](thumb.rev.C.side.webp)](https://raw.githubusercontent.com/UzixLS/zxuno1010-board/refs/heads/master/images/rev.C.side.webp)
 
 ## Revision A
-[![photo](thumb.rev.A.webp)](https://raw.githubusercontent.com/UzixLS/zxuno1010-board/refs/heads/master/images/rev.A.webp)
+[![photo](thumb.rev.A.front.webp)](https://raw.githubusercontent.com/UzixLS/zxuno1010-board/refs/heads/master/images/rev.A.front.webp)
+
+[![photo](thumb.rev.A.top.webp)](https://raw.githubusercontent.com/UzixLS/zxuno1010-board/refs/heads/master/images/rev.A.top.webp)
